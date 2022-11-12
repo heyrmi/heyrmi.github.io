@@ -15,3 +15,6 @@ hugo.linux
 # Mac OS Files
 .DS_Store
 .DS_store
+
+#VS Code
+.vscode

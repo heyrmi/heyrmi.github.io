@@ -1,4 +1,4 @@
-baseURL: "https://heyrmi.org"
+baseURL: https://heyrmi.github.io
 languageCode: en-us
 title: Rahul Mishra
 theme: PaperMod
@@ -13,9 +13,9 @@ menu:
       name: Blog
       url: /blog
       weight: 20
-    - identifier: projects
-      name: Projects
-      url: /projects
+    - identifier: work
+      name: Work
+      url: /work
       weight: 30
     - identifier: experience
       name: Experience
