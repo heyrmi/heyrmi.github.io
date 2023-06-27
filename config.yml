@@ -50,12 +50,12 @@ params:
     enabled: true
     title: "Rahul Mishra"
     subtitle: Hi, I am from India 🇮🇳. <br>Software Engineer in Test 🧑🏻‍💻 at [**dripcapital.com**](https://dripcapital.com/). <br>**Hobbyist developer** currently working with Java & JavaScript.
-    imageUrl: "home/me.jpeg"
+    imageUrl: "home/me.png"
     imageWidth: 220
     imageHeight: 220
-    buttons:
-      - name: Resume
-        url: "https://drive.google.com/file/d/17PoB8hJymDDT-At_MI1ND-7n-gYRynY1/view?usp=sharing"
+    # buttons:
+    #   - name: Resume
+    #     url: ""
 
   # List View
   hideDescriptionInList: false
@@ -75,7 +75,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/hey_rmi"
     # - name: "cv"
-    #   url: "https://drive.google.com/file/d/17PoB8hJymDDT-At_MI1ND-7n-gYRynY1/view"
+    #   url: ""
 
   # text search
   fuseOpts:
