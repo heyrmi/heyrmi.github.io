@@ -49,8 +49,8 @@ params:
   profileMode:
     enabled: true
     title: "Rahul Mishra"
-    subtitle: Hi, I am from India 🇮🇳. <br>Software Engineer in Test 🧑🏻‍💻 at [**dripcapital.com**](https://dripcapital.com/). <br>**Hobbyist developer** currently working with Java & JavaScript.
-    imageUrl: "home/me.png"
+    subtitle: Hi, I am from India 🇮🇳. <br>SDET 🧑🏻‍💻 at [**Lambda Test**](https://www.lambdatest.com). <br> Currently working with Java, JS and Go.
+    imageUrl: "home/Me.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
